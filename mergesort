@@ -1,0 +1,8 @@
+Arreglo Original: {1 4 123 }
+Arreglo Ordenado {1 4 123 }
+Arreglo Original: {12, 3, 0, }
+Arreglo Ordenado {0 3 12 }
+Arreglo Original: {12, 4, 8, 0, 1, }
+Arreglo Ordenado {0, 1, 4, 8, 762137416, }
+Arreglo Original: {2, 56, 21, 1, }
+Arreglo Ordenado {1, 2, 21, 56, }
